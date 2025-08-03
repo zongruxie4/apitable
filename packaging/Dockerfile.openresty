@@ -1,4 +1,4 @@
-FROM openresty/openresty:1.21.4.1-4-buster-fat
+FROM openresty/openresty:1.27.1.2-1-alpine-slim
 
 ARG SEMVER_FULL
 ENV SEMVER_FULL=${SEMVER_FULL}
