@@ -76,7 +76,7 @@
     "@opentelemetry/sdk-trace-base": "^1.0.1",
     "@opentelemetry/semantic-conventions": "1.9.1",
     "@sentry/core": "7.68.0",
-    "@sentry/node": "^7.18.0",
+    "@sentry/node": "^9.40.0",
     "@sentry/serverless": "^7.18.0",
     "@sentry/tracing": "^7.18.0",
     "@sentry/types": "^7.18.0",
