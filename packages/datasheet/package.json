@@ -179,7 +179,7 @@
     "react-konva": "^18.2.2",
     "react-lifecycles-compat": "^3.0.4",
     "react-multiline-clamp": "^2.0.0",
-    "react-pdf": "5.4.0",
+    "react-pdf": "9.0.0",
     "react-popper": "^2.3.0",
     "react-redux": "8.0.4",
     "react-responsive-carousel": "^3.2.23",
