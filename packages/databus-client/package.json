@@ -22,10 +22,14 @@
     "prepare": "npm run build"
   },
   "dependencies": {
-    "axios": "^0.27.2"
+    "axios": "^1.10.0"
   },
   "devDependencies": {
     "@types/node": "^24.0.10",
     "typescript": "^4.0"
+     develop
+    "@types/node": "^12.11.5",
+    "typescript": "^5.8.3"
+     snyk-upgrade-b7defe3ae6dae91645ca386f840932bf
   }
 }
