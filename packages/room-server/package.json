@@ -83,8 +83,12 @@
      snyk-upgrade-e0a512d981e158068a548128d7dee68e
     "@sentry/serverless" : "^7.18.0" ,
     "@sentry/tracing": "^7.18.0",
+    "@sentry/types": "^9.40.0",
+    "@sentry/utils": "7.22.0",
+     develop
     "@sentry/types": "^7.18.0",
     "@sentry/utils": "8.55.0",
+     snyk-upgrade-6f358cf56f73a25b3a2ae8144b9cddec
     "@socket.io/redis-adapter": "^7.2.0",
     "@tiptap/core": "^2.1.8",
     "@tiptap/pm": "^2.1.8",    "@tiptap/starter-kit": "^2.1.8",
