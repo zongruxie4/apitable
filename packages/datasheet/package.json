@@ -296,7 +296,7 @@
     "url": "^0.11.1",
     "util": "^0.12.5",
     "web-vitals": "^1.0.1",
-    "webpack-bundle-analyzer": "^3.9.0",
+    "webpack-bundle-analyzer": "^4.0.0",
     "webpack-node-externals": "^3.0.0",
     "webpack-sources": "^3.2.3",
     "webpackbar": "^5.0.2",
