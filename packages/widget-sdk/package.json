@@ -43,7 +43,7 @@
     "@apitable/icons": "workspace:*",
     "@testing-library/react-hooks": "^7.0.1",
     "ahooks": "^3.5.0",
-    "antd": "4.23.5",
+    "antd": "4.23.6",
     "attr-accept": "^2.1.0",
     "axios": "0.21.4",
     "bowser": "^2.11.0",
@@ -66,7 +66,7 @@
     "reselect": "4.0.0",
     "resize-observer-polyfill": "^1.5.1",
     "socket.io-client": "2.2.0",
-    "store2": "^2.12.0"
+    "store2": "^2.14.4"
   },
   "devDependencies": {
     "@types/copyfiles": "^2",
