@@ -53,7 +53,7 @@
     "immer": "9.0.16",
     "loadjs": "^4.2.0",
     "localforage": "^1.10.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "lodash.without": "^4.4.0",
     "mime-types": "^2.1.29",
     "rc-picker": "^3.13.0",
