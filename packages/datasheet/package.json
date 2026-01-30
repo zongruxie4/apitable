@@ -81,7 +81,7 @@
     "attr-accept": "^2.1.0",
     "axios": "0.21.4",
     "bowser": "^2.11.0",
-    "canvas": "2.9.1",
+    "canvas": "3.0.0",
     "classnames": "2.2.6",
     "clipboard": "^2.0.11",
     "color": "^3.1.3",
