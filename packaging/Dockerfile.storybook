@@ -25,6 +25,6 @@ COPY packages/ ./packages/
 
 RUN pnpm run build:components:doc
 
-FROM nginx:1.23.1
+FROM nginx:1.29.5
 COPY --from=builder /app/packages/components/storybook-static  /usr/share/nginx/html
 RUN find /usr/share/nginx/html
